@@ -226,6 +226,12 @@ Pull requests are welcome. Fork the repo and submit your changes with a clear me
 
 ---
 
-## 📄 License
+## 📝 License
 
-Develop by © 2025 Ravindra kumar Suthar
+This project is for educational use only. You may use, modify, or share it for learning purposes. Do not use for any official or commercial deployment.
+
+---
+
+## 🤝 Support
+
+For questions or support, connect on [LinkedIn](https://www.linkedin.com/in/ravindra-kumar-suthar-882ravi/).
